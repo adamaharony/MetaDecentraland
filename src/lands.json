@@ -1,0 +1,2042 @@
+[
+    [
+        {
+            "type": "Park",
+            "coords": "(0; 0)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(0; 1)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(0; 2)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(0; 3)",
+            "price": 17
+        },
+        {
+            "type": "Land",
+            "coords": "(0; 4)",
+            "price": 5
+        },
+        {
+            "type": "Land",
+            "coords": "(0; 5)",
+            "price": 18
+        },
+        {
+            "type": "Land",
+            "coords": "(0; 6)",
+            "price": 12
+        },
+        {
+            "type": "Land",
+            "coords": "(0; 7)",
+            "price": 16
+        },
+        {
+            "type": "Land",
+            "coords": "(0; 8)",
+            "price": 13
+        },
+        {
+            "type": "Land",
+            "coords": "(0; 9)",
+            "price": 18
+        },
+        {
+            "type": "Land",
+            "coords": "(0; 10)",
+            "price": 8
+        },
+        {
+            "type": "Land",
+            "coords": "(0; 11)",
+            "price": 8
+        },
+        {
+            "type": "Land",
+            "coords": "(0; 12)",
+            "price": 15
+        },
+        {
+            "type": "Land",
+            "coords": "(0; 13)",
+            "price": 10
+        },
+        {
+            "type": "Road",
+            "coords": "(0; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(0; 15)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(0; 16)",
+            "price": 17
+        },
+        {
+            "type": "Land",
+            "coords": "(0; 17)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(0; 18)",
+            "price": 9
+        },
+        {
+            "type": "Road",
+            "coords": "(0; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Park",
+            "coords": "(1; 0)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(1; 1)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(1; 2)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(1; 3)",
+            "price": 18
+        },
+        {
+            "type": "Land",
+            "coords": "(1; 4)",
+            "price": 12
+        },
+        {
+            "type": "Land",
+            "coords": "(1; 5)",
+            "price": 16
+        },
+        {
+            "type": "Land",
+            "coords": "(1; 6)",
+            "price": 20
+        },
+        {
+            "type": "Land",
+            "coords": "(1; 7)",
+            "price": 12
+        },
+        {
+            "type": "Land",
+            "coords": "(1; 8)",
+            "price": 12
+        },
+        {
+            "type": "Land",
+            "coords": "(1; 9)",
+            "price": 13
+        },
+        {
+            "type": "Land",
+            "coords": "(1; 10)",
+            "price": 9
+        },
+        {
+            "type": "Land",
+            "coords": "(1; 11)",
+            "price": 10
+        },
+        {
+            "type": "Land",
+            "coords": "(1; 12)",
+            "price": 17
+        },
+        {
+            "type": "Land",
+            "coords": "(1; 13)",
+            "price": 12
+        },
+        {
+            "type": "Road",
+            "coords": "(1; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(1; 15)",
+            "price": 8
+        },
+        {
+            "type": "Land",
+            "coords": "(1; 16)",
+            "price": 9
+        },
+        {
+            "type": "Land",
+            "coords": "(1; 17)",
+            "price": 9
+        },
+        {
+            "type": "Land",
+            "coords": "(1; 18)",
+            "price": 11
+        },
+        {
+            "type": "Road",
+            "coords": "(1; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Park",
+            "coords": "(2; 0)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(2; 1)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(2; 2)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(2; 3)",
+            "price": 8
+        },
+        {
+            "type": "Land",
+            "coords": "(2; 4)",
+            "price": 8
+        },
+        {
+            "type": "Land",
+            "coords": "(2; 5)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(2; 6)",
+            "price": 19
+        },
+        {
+            "type": "Land",
+            "coords": "(2; 7)",
+            "price": 17
+        },
+        {
+            "type": "Land",
+            "coords": "(2; 8)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(2; 9)",
+            "price": 7
+        },
+        {
+            "type": "Land",
+            "coords": "(2; 10)",
+            "price": 14
+        },
+        {
+            "type": "Land",
+            "coords": "(2; 11)",
+            "price": 9
+        },
+        {
+            "type": "Land",
+            "coords": "(2; 12)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(2; 13)",
+            "price": 13
+        },
+        {
+            "type": "Road",
+            "coords": "(2; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(2; 15)",
+            "price": 7
+        },
+        {
+            "type": "Land",
+            "coords": "(2; 16)",
+            "price": 13
+        },
+        {
+            "type": "Land",
+            "coords": "(2; 17)",
+            "price": 19
+        },
+        {
+            "type": "Land",
+            "coords": "(2; 18)",
+            "price": 18
+        },
+        {
+            "type": "Road",
+            "coords": "(2; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Land",
+            "coords": "(3; 0)",
+            "price": 17
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 1)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 2)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 3)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 4)",
+            "price": 14
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 5)",
+            "price": 14
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 6)",
+            "price": 18
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 7)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 8)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 9)",
+            "price": 18
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 10)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 11)",
+            "price": 9
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 12)",
+            "price": 16
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 13)",
+            "price": 10
+        },
+        {
+            "type": "Road",
+            "coords": "(3; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 15)",
+            "price": 8
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 16)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 17)",
+            "price": 14
+        },
+        {
+            "type": "Land",
+            "coords": "(3; 18)",
+            "price": 7
+        },
+        {
+            "type": "Road",
+            "coords": "(3; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Land",
+            "coords": "(4; 0)",
+            "price": 16
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 1)",
+            "price": 13
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 2)",
+            "price": 8
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 3)",
+            "price": 9
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 4)",
+            "price": 8
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 5)",
+            "price": 12
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 6)",
+            "price": 5
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 7)",
+            "price": 15
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 8)",
+            "price": 10
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 9)",
+            "price": 20
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 10)",
+            "price": 13
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 11)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 12)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 13)",
+            "price": 7
+        },
+        {
+            "type": "Road",
+            "coords": "(4; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 15)",
+            "price": 13
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 16)",
+            "price": 12
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 17)",
+            "price": 15
+        },
+        {
+            "type": "Land",
+            "coords": "(4; 18)",
+            "price": 5
+        },
+        {
+            "type": "Road",
+            "coords": "(4; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Land",
+            "coords": "(5; 0)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(5; 1)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(5; 2)",
+            "price": 17
+        },
+        {
+            "type": "Land",
+            "coords": "(5; 3)",
+            "price": 16
+        },
+        {
+            "type": "Land",
+            "coords": "(5; 4)",
+            "price": 7
+        },
+        {
+            "type": "Park",
+            "coords": "(5; 5)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(5; 6)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(5; 7)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(5; 8)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(5; 9)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(5; 10)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(5; 11)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(5; 12)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(5; 13)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(5; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(5; 15)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(5; 16)",
+            "price": 19
+        },
+        {
+            "type": "Land",
+            "coords": "(5; 17)",
+            "price": 10
+        },
+        {
+            "type": "Land",
+            "coords": "(5; 18)",
+            "price": 14
+        },
+        {
+            "type": "Road",
+            "coords": "(5; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Land",
+            "coords": "(6; 0)",
+            "price": 13
+        },
+        {
+            "type": "Land",
+            "coords": "(6; 1)",
+            "price": 15
+        },
+        {
+            "type": "Land",
+            "coords": "(6; 2)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(6; 3)",
+            "price": 13
+        },
+        {
+            "type": "Land",
+            "coords": "(6; 4)",
+            "price": 7
+        },
+        {
+            "type": "Park",
+            "coords": "(6; 5)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(6; 6)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(6; 7)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(6; 8)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(6; 9)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(6; 10)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(6; 11)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(6; 12)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(6; 13)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(6; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(6; 15)",
+            "price": 10
+        },
+        {
+            "type": "Land",
+            "coords": "(6; 16)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(6; 17)",
+            "price": 14
+        },
+        {
+            "type": "Land",
+            "coords": "(6; 18)",
+            "price": 14
+        },
+        {
+            "type": "Road",
+            "coords": "(6; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Land",
+            "coords": "(7; 0)",
+            "price": 14
+        },
+        {
+            "type": "Land",
+            "coords": "(7; 1)",
+            "price": 15
+        },
+        {
+            "type": "Land",
+            "coords": "(7; 2)",
+            "price": 17
+        },
+        {
+            "type": "Land",
+            "coords": "(7; 3)",
+            "price": 18
+        },
+        {
+            "type": "Land",
+            "coords": "(7; 4)",
+            "price": 15
+        },
+        {
+            "type": "Park",
+            "coords": "(7; 5)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(7; 6)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(7; 7)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(7; 8)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(7; 9)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(7; 10)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(7; 11)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(7; 12)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(7; 13)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(7; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(7; 15)",
+            "price": 20
+        },
+        {
+            "type": "Land",
+            "coords": "(7; 16)",
+            "price": 7
+        },
+        {
+            "type": "Land",
+            "coords": "(7; 17)",
+            "price": 14
+        },
+        {
+            "type": "Land",
+            "coords": "(7; 18)",
+            "price": 12
+        },
+        {
+            "type": "Road",
+            "coords": "(7; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Land",
+            "coords": "(8; 0)",
+            "price": 13
+        },
+        {
+            "type": "Land",
+            "coords": "(8; 1)",
+            "price": 10
+        },
+        {
+            "type": "Land",
+            "coords": "(8; 2)",
+            "price": 7
+        },
+        {
+            "type": "Land",
+            "coords": "(8; 3)",
+            "price": 8
+        },
+        {
+            "type": "Land",
+            "coords": "(8; 4)",
+            "price": 13
+        },
+        {
+            "type": "Park",
+            "coords": "(8; 5)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(8; 6)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(8; 7)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(8; 8)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(8; 9)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(8; 10)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(8; 11)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(8; 12)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(8; 13)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(8; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(8; 15)",
+            "price": 20
+        },
+        {
+            "type": "Land",
+            "coords": "(8; 16)",
+            "price": 10
+        },
+        {
+            "type": "Land",
+            "coords": "(8; 17)",
+            "price": 12
+        },
+        {
+            "type": "Land",
+            "coords": "(8; 18)",
+            "price": 13
+        },
+        {
+            "type": "Road",
+            "coords": "(8; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Land",
+            "coords": "(9; 0)",
+            "price": 12
+        },
+        {
+            "type": "Land",
+            "coords": "(9; 1)",
+            "price": 14
+        },
+        {
+            "type": "Land",
+            "coords": "(9; 2)",
+            "price": 18
+        },
+        {
+            "type": "Land",
+            "coords": "(9; 3)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(9; 4)",
+            "price": 14
+        },
+        {
+            "type": "Park",
+            "coords": "(9; 5)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(9; 6)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(9; 7)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(9; 8)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(9; 9)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(9; 10)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(9; 11)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(9; 12)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(9; 13)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(9; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(9; 15)",
+            "price": 20
+        },
+        {
+            "type": "Land",
+            "coords": "(9; 16)",
+            "price": 18
+        },
+        {
+            "type": "Land",
+            "coords": "(9; 17)",
+            "price": 12
+        },
+        {
+            "type": "Land",
+            "coords": "(9; 18)",
+            "price": 17
+        },
+        {
+            "type": "Road",
+            "coords": "(9; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Land",
+            "coords": "(10; 0)",
+            "price": 12
+        },
+        {
+            "type": "Land",
+            "coords": "(10; 1)",
+            "price": 18
+        },
+        {
+            "type": "Land",
+            "coords": "(10; 2)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(10; 3)",
+            "price": 19
+        },
+        {
+            "type": "Land",
+            "coords": "(10; 4)",
+            "price": 6
+        },
+        {
+            "type": "Park",
+            "coords": "(10; 5)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(10; 6)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(10; 7)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(10; 8)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(10; 9)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(10; 10)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(10; 11)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(10; 12)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(10; 13)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(10; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(10; 15)",
+            "price": 5
+        },
+        {
+            "type": "Land",
+            "coords": "(10; 16)",
+            "price": 8
+        },
+        {
+            "type": "Land",
+            "coords": "(10; 17)",
+            "price": 12
+        },
+        {
+            "type": "Land",
+            "coords": "(10; 18)",
+            "price": 9
+        },
+        {
+            "type": "Road",
+            "coords": "(10; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Land",
+            "coords": "(11; 0)",
+            "price": 17
+        },
+        {
+            "type": "Land",
+            "coords": "(11; 1)",
+            "price": 13
+        },
+        {
+            "type": "Land",
+            "coords": "(11; 2)",
+            "price": 5
+        },
+        {
+            "type": "Land",
+            "coords": "(11; 3)",
+            "price": 7
+        },
+        {
+            "type": "Land",
+            "coords": "(11; 4)",
+            "price": 17
+        },
+        {
+            "type": "Park",
+            "coords": "(11; 5)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(11; 6)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(11; 7)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(11; 8)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(11; 9)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(11; 10)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(11; 11)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(11; 12)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(11; 13)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(11; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(11; 15)",
+            "price": 17
+        },
+        {
+            "type": "Land",
+            "coords": "(11; 16)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(11; 17)",
+            "price": 20
+        },
+        {
+            "type": "Land",
+            "coords": "(11; 18)",
+            "price": 7
+        },
+        {
+            "type": "Road",
+            "coords": "(11; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Land",
+            "coords": "(12; 0)",
+            "price": 20
+        },
+        {
+            "type": "Land",
+            "coords": "(12; 1)",
+            "price": 7
+        },
+        {
+            "type": "Land",
+            "coords": "(12; 2)",
+            "price": 15
+        },
+        {
+            "type": "Land",
+            "coords": "(12; 3)",
+            "price": 18
+        },
+        {
+            "type": "Land",
+            "coords": "(12; 4)",
+            "price": 13
+        },
+        {
+            "type": "Park",
+            "coords": "(12; 5)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(12; 6)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(12; 7)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(12; 8)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(12; 9)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(12; 10)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(12; 11)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(12; 12)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(12; 13)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(12; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(12; 15)",
+            "price": 10
+        },
+        {
+            "type": "Land",
+            "coords": "(12; 16)",
+            "price": 5
+        },
+        {
+            "type": "Land",
+            "coords": "(12; 17)",
+            "price": 8
+        },
+        {
+            "type": "Land",
+            "coords": "(12; 18)",
+            "price": 20
+        },
+        {
+            "type": "Road",
+            "coords": "(12; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Land",
+            "coords": "(13; 0)",
+            "price": 13
+        },
+        {
+            "type": "Land",
+            "coords": "(13; 1)",
+            "price": 8
+        },
+        {
+            "type": "Land",
+            "coords": "(13; 2)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(13; 3)",
+            "price": 19
+        },
+        {
+            "type": "Land",
+            "coords": "(13; 4)",
+            "price": 9
+        },
+        {
+            "type": "Park",
+            "coords": "(13; 5)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(13; 6)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(13; 7)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(13; 8)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(13; 9)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(13; 10)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(13; 11)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(13; 12)",
+            "price": null
+        },
+        {
+            "type": "Park",
+            "coords": "(13; 13)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(13; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(13; 15)",
+            "price": 9
+        },
+        {
+            "type": "Land",
+            "coords": "(13; 16)",
+            "price": 10
+        },
+        {
+            "type": "Land",
+            "coords": "(13; 17)",
+            "price": 7
+        },
+        {
+            "type": "Land",
+            "coords": "(13; 18)",
+            "price": 11
+        },
+        {
+            "type": "Road",
+            "coords": "(13; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Road",
+            "coords": "(14; 0)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 1)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 2)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 3)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 4)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 5)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 6)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 7)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 8)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 9)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 10)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 11)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 12)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 13)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 14)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 15)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 16)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 17)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 18)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(14; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Land",
+            "coords": "(15; 0)",
+            "price": 10
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 1)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 2)",
+            "price": 8
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 3)",
+            "price": 7
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 4)",
+            "price": 20
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 5)",
+            "price": 8
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 6)",
+            "price": 9
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 7)",
+            "price": 13
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 8)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 9)",
+            "price": 10
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 10)",
+            "price": 14
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 11)",
+            "price": 16
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 12)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 13)",
+            "price": 17
+        },
+        {
+            "type": "Road",
+            "coords": "(15; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 15)",
+            "price": 7
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 16)",
+            "price": 16
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 17)",
+            "price": 8
+        },
+        {
+            "type": "Land",
+            "coords": "(15; 18)",
+            "price": 11
+        },
+        {
+            "type": "Road",
+            "coords": "(15; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Land",
+            "coords": "(16; 0)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 1)",
+            "price": 13
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 2)",
+            "price": 12
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 3)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 4)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 5)",
+            "price": 18
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 6)",
+            "price": 18
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 7)",
+            "price": 12
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 8)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 9)",
+            "price": 20
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 10)",
+            "price": 15
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 11)",
+            "price": 17
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 12)",
+            "price": 18
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 13)",
+            "price": 11
+        },
+        {
+            "type": "Road",
+            "coords": "(16; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 15)",
+            "price": 18
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 16)",
+            "price": 18
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 17)",
+            "price": 9
+        },
+        {
+            "type": "Land",
+            "coords": "(16; 18)",
+            "price": 14
+        },
+        {
+            "type": "Road",
+            "coords": "(16; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Land",
+            "coords": "(17; 0)",
+            "price": 10
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 1)",
+            "price": 8
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 2)",
+            "price": 13
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 3)",
+            "price": 16
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 4)",
+            "price": 14
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 5)",
+            "price": 15
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 6)",
+            "price": 16
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 7)",
+            "price": 9
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 8)",
+            "price": 19
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 9)",
+            "price": 14
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 10)",
+            "price": 9
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 11)",
+            "price": 20
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 12)",
+            "price": 5
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 13)",
+            "price": 11
+        },
+        {
+            "type": "Road",
+            "coords": "(17; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 15)",
+            "price": 16
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 16)",
+            "price": 7
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 17)",
+            "price": 7
+        },
+        {
+            "type": "Land",
+            "coords": "(17; 18)",
+            "price": 10
+        },
+        {
+            "type": "Road",
+            "coords": "(17; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Land",
+            "coords": "(18; 0)",
+            "price": 9
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 1)",
+            "price": 13
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 2)",
+            "price": 17
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 3)",
+            "price": 14
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 4)",
+            "price": 20
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 5)",
+            "price": 20
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 6)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 7)",
+            "price": 11
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 8)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 9)",
+            "price": 6
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 10)",
+            "price": 17
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 11)",
+            "price": 14
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 12)",
+            "price": 10
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 13)",
+            "price": 10
+        },
+        {
+            "type": "Road",
+            "coords": "(18; 14)",
+            "price": null
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 15)",
+            "price": 9
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 16)",
+            "price": 15
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 17)",
+            "price": 13
+        },
+        {
+            "type": "Land",
+            "coords": "(18; 18)",
+            "price": 7
+        },
+        {
+            "type": "Road",
+            "coords": "(18; 19)",
+            "price": null
+        }
+    ],
+    [
+        {
+            "type": "Road",
+            "coords": "(19; 0)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 1)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 2)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 3)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 4)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 5)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 6)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 7)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 8)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 9)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 10)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 11)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 12)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 13)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 14)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 15)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 16)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 17)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 18)",
+            "price": null
+        },
+        {
+            "type": "Road",
+            "coords": "(19; 19)",
+            "price": null
+        }
+    ]
+]
